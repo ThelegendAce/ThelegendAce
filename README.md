@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @ThelegendAce
-- 👀 I’m interested in Cyber Security,
-- 🌱 I’m currently learning Cyber Security.
-- 💞️ I’m looking to collaborate on same
-- 📫 How to reach me ...
+# TheLegendAce
 
-<!---
-ThelegendAce/ThelegendAce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Digital forensics and cybersecurity, with a focus on practical tools, investigation workflows, and knowledge sharing.
+
+## Focus areas
+
+- Digital forensics and incident response (DFIR)
+- Forensic workflows and utilities
+- Cybersecurity research and training
+- Clear, reproducible technical documentation
+
+## Projects
+
+I use this profile to share tools, research, and learning resources. Public repositories should contain only material that is authorized for release. Never publish case files, client information, credentials, or other confidential data.
+
+## Connect
+
+- LinkedIn: [abhishek-singh-760039182](https://www.linkedin.com/in/abhishek-singh-760039182)
+- Email: [absinghn@gmail.com](mailto:absinghn@gmail.com)
